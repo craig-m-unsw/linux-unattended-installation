@@ -1,0 +1,5 @@
+*.log
+*.iso
+*.tmp
+.DS_Store
+local/
